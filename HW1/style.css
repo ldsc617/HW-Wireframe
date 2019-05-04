@@ -1,0 +1,38 @@
+
+
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+
+  body {
+    font-size: 24px;
+    line-height: 32px;
+    color: #333;
+}
+
+header {
+  padding: 20px;
+  margin-bottom: 20px;
+  color: white;
+  background: gray;
+}
+
+Nav {
+    padding: 20px;
+  margin-bottom: 20px;
+  color: white;
+  background: gray;
+}
+
+section {
+    padding: 20px;
+    margin-bottom: 20px;
+    background: gray;
+  }
+
+footer {
+    padding: 20px;
+    clear: both;
+    background: gray;
+  }
